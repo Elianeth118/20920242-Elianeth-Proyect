@@ -1,0 +1,13 @@
+1|Eli|9512544162|Visto|En linea|Wed Apr 06 17:50:13 CDT 2022
+2|Abilenne|9512759810|No leido|Sin conexion|Wed Apr 06 18:06:57 CDT 2022
+2|Patricia|9712365412|Leido|En linea|Thu Apr 07 19:29:34 CDT 2022
+4|Antonio|9514562393|No Recibido|Sin conexion|Thu Apr 07 19:59:32 CDT 2022
+3|Edith|9511882563|No Recibido|Sin conexion|Thu Apr 07 21:54:18 CDT 2022
+4|Alfredo|9514589256|Leido|En linea|Thu Apr 07 21:58:18 CDT 2022
+5|Baltadano|9514552689|Visto|Escribiendo|Fri Apr 08 21:58:18 CDT 2022
+6|Angel|9514562320|Leido|En linea|Thu Apr 07 23:02:54 CDT 2022
+7|Irlanda|9513220775|Visto|En linea|Thu Apr 07 23:02:54 CDT 2022
+12|Dumba|951236598|No leido|En linea|Fri Apr 08 11:31:11 CDT 2022
+18|sandy|951236594|No Recibido|Sin conexion|Fri Apr 08 11:31:11 CDT 2022
+13|Said|9511362569|No leido|En linea|Fri Apr 08 13:50:19 CDT 2022
+13|nando|9514525689|Visto|Sin conexion|Fri Apr 08 14:33:23 CDT 2022
